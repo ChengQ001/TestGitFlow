@@ -9,7 +9,7 @@ namespace TestGitFlow
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("_____________________>");
+            Console.WriteLine("_______1.2______________>");
             Console.ReadKey();
         }
     }
