@@ -1,0 +1,6 @@
+E:\MyGitHub\TestGitFlow\TestGitFlow\TestGitFlow\bin\Debug\TestGitFlow.exe
+E:\MyGitHub\TestGitFlow\TestGitFlow\TestGitFlow\bin\Debug\TestGitFlow.pdb
+E:\MyGitHub\TestGitFlow\TestGitFlow\TestGitFlow\obj\Debug\TestGitFlow.csprojAssemblyReference.cache
+E:\MyGitHub\TestGitFlow\TestGitFlow\TestGitFlow\obj\Debug\TestGitFlow.csproj.CoreCompileInputs.cache
+E:\MyGitHub\TestGitFlow\TestGitFlow\TestGitFlow\obj\Debug\TestGitFlow.exe
+E:\MyGitHub\TestGitFlow\TestGitFlow\TestGitFlow\obj\Debug\TestGitFlow.pdb
